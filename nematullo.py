@@ -1,1 +1,1 @@
-print('kelin imibchon')
+print('kelin iminchon')
