@@ -1,0 +1,1 @@
+print('kelin imibchon')
